@@ -1,2 +1,2 @@
 # ML_Algo
-This contains python implemetations of Different ML Algorithms
+This repository contains python implemetations of Different ML Algorithms
